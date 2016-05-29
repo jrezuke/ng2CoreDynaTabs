@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F06C0B81-CDA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8ECFC5B8-1774-4F65-95DB-B9D9CC81C101}"
 	ProjectSection(SolutionItems) = preProject
+		src\ng2CoreDynaTabs\.gitignore = src\ng2CoreDynaTabs\.gitignore
 		global.json = global.json
 	EndProjectSection
 EndProject
